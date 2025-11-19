@@ -1,0 +1,2 @@
+Table,Non_unique,Key_name,Seq_in_index,Column_name,Collation,Cardinality,Sub_part,Packed,Null,Index_type,Comment,Index_comment,Visible,Expression
+sales,1,idx_customer_id,1,CustomerID,A,4296,NULL,NULL,YES,BTREE,,,YES,NULL
